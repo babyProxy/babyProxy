@@ -1,6 +1,6 @@
-## BabyProxy · 以太坊抽水、转发矿池，一键搭建私人矿池
+## ✨  BabyProxy ✨  · 以太坊抽水、转发矿池，一键搭建私人矿池
 
-![minerProxy.PNG](https://bcn.135editor.com/files/users/1169/11697638/202203/Og7B9gZC_M93k.jpg "参数说明.jpg" )
+![minerProxy.PNGZz](https://bcn.135editor.com/files/users/1169/11697638/202203/Og7B9gZC_M93k.jpg "参数说明.jpg" )
 
 - ✔ 新代码库迁移到这里， 旧代码库已删除：rgerd/babyProxy
 - ⚡ 用于鱼池、币印、E池等以太坊/比特币矿池代理、中转、转发、抽水
