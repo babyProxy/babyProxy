@@ -1,4 +1,4 @@
-## BabyProxy · A ✨ _special_ ✨ ETH Pool Proxy Tool
+## BabyProxy · 以太坊抽水、转发矿池，一键搭建私人矿池
 
 ![参数说明.jpg](https://bcn.135editor.com/files/users/1169/11697638/202203/Og7B9gZC_M93k.jpg "参数说明.jpg" )
 
