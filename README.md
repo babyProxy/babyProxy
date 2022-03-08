@@ -1,5 +1,7 @@
 ## BabyProxy · A ✨ _special_ ✨ ETH Pool Proxy Tool
 
+![参数说明.jpg](https://bcn.135editor.com/files/users/1169/11697638/202203/Og7B9gZC_M93k.jpg "参数说明.jpg" )
+
 - ✔ 新代码库迁移到这里， 旧代码库已删除：rgerd/babyProxy
 - ⚡ 用于鱼池、币印、E池等以太坊/比特币矿池代理、中转、转发、抽水
 - 🔭 请谨慎使用其他人的加料代码，懂的都懂
@@ -39,7 +41,7 @@ chmod +x babyProxy
 - 已经提前为大家准备好了模板，替换为自己的钱包地址即可
 - 参数说明
 
-![参数说明.jpg](https://wk588.com/static/05029238+1587868850616820.jpg "参数说明.jpg" )
+![参数说明.jpg](https://bcn.135editor.com/files/users/1169/11697638/202203/6jLBrL4c_JgJv.png "参数说明.jpg" )
 
 - 鱼池：f2pool-6688.sh
 - 币印：poolin-1883.sh
