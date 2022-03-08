@@ -41,7 +41,7 @@ chmod +x babyProxy
 - 已经提前为大家准备好了模板，替换为自己的钱包地址即可
 - 参数说明
 
-![参数说明.jpg](https://bcn.135editor.com/files/users/1169/11697638/202203/6jLBrL4c_JgJv.png "参数说明.jpg" )
+![参数说明.png](https://bcn.135editor.com/files/users/1169/11697638/202203/6jLBrL4c_JgJv.png "参数说明.jpg" )
 
 - 鱼池：f2pool-6688.sh
 - 币印：poolin-1883.sh
