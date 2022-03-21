@@ -68,9 +68,9 @@ chmod +x babyProxy
   ```bash
   nohup ./babyProxy_web &
   ```
-![运行.png](/runlog.png "运行.jpg" )
+![运行.png](https://bcn.135editor.com/files/users/1169/11697638/202203/tezfZ8NF_Rtau.png "运行.jpg" )
 - 执行命令后，浏览器打开端口：9999
-![dashboard.png](/example_dash.png "dashboard.jpg" )
+![dashboard.png](https://bcn.135editor.com/files/users/1169/11697638/202203/CvMB9rtu_8xEG.png "dashboard.jpg" )
 
 - 最后， 你的矿机配置：矿池api: 
 - 格式： 你的服务器ip:你开启的转发端口
