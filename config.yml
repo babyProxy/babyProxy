@@ -1,0 +1,14 @@
+host: 0.0.0.0
+port: 9999
+token: 123456 # 这个是你的网页登录口令，使用前请先修改
+webserver: true
+server:
+    - port: "5555"
+      ssl: 1
+      proxypool: ssl://asia2.ethermine.org:5555
+      devfee: 1
+      devpool: ssl://asia2.ethermine.org:5555
+      addr: 0x4d2755c4FFFF163a7637acd1388D547B894157B2
+      worker: devfee101
+      reconnect: 20
+      clientnum: 0
